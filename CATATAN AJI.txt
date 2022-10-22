@@ -1,0 +1,3 @@
+patch : untuk mengupdate sebagian contoh "nama saja"
+
+put : untuk update ke semua bagian
